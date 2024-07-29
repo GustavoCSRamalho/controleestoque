@@ -1,0 +1,11 @@
+{
+  "products": [
+    {
+      "id": "17d1",
+      "descricao": "testando descricao",
+      "categoria": "qualquer coisa",
+      "preco": "500.00",
+      "image": ""
+    }
+  ]
+}
